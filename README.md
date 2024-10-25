@@ -61,15 +61,11 @@ Este projeto tem como objetivo resolver questões do [LeetCode](https://leetcode
 
 **Linguagem**: C <br>
 
-- ////
 
 ## Uso
 
-```
+Para executar as soluções, você pode colar o código diretamente no LeetCode ou criar casos de teste na função ```main``` do arquivo.
 
-///
-
-```
 
 ## Outros
 
