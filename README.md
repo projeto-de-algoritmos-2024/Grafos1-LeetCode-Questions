@@ -21,8 +21,8 @@ Este projeto tem como objetivo resolver questões do [LeetCode](https://leetcode
 
 | Nome                                                                                                                                                  | Nível   |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
-| [765. Couples Holding Hands](https://leetcode.com/problems/couples-holding-hands/description/)      | Difícil |
-| []() | Difícil |
+| [765. Couples Holding Hands](https://leetcode.com/problems/couples-holding-hands/description/) | Difícil |
+| [329. Longest Increasing Path in a Matrix](https://leetcode.com/problems/) | Difícil |
 | []()                   | Difícil |
 
 ## Vídeo
