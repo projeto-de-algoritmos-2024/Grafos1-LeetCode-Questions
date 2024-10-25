@@ -42,6 +42,22 @@ Este projeto tem como objetivo resolver questões do [LeetCode](https://leetcode
 
 ![](assets/Case2_chh.png)
 
+### [329. Longest Increasing Path in a Matrix](https://leetcode.com/problems/)
+
+**Caso 1:**
+
+![](assets/Case1_lip.png)
+
+**Case 2:**
+
+![](assets/Case2_lip.png)
+
+**Case 3:**
+
+![](assets/Case3_lip.png)
+
+### PRÓXIMA QUESTÃO
+
 
 **Linguagem**: C <br>
 
