@@ -35,12 +35,12 @@ Este projeto tem como objetivo resolver questões do [LeetCode](https://leetcode
 
  **Caso 1:**
 
-![](https://github.com/user-attachments/assets/d3bd3d91-cb53-4619-95e6-c0547d5a8534)
+![](assets/Case1_chh.png)
 
 
  **Caso 2:**
 
-![](https://github.com/user-attachments/assets/97dac471-cf43-4fc0-ad70-705c05529bb3)
+![](assets/Case2_chh.png)
 
 
 **Linguagem**: C <br>
