@@ -23,7 +23,7 @@ Este projeto tem como objetivo resolver questões do [LeetCode](https://leetcode
 | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
 | [765. Couples Holding Hands](https://leetcode.com/problems/couples-holding-hands/description/) | Difícil |
 | [329. Longest Increasing Path in a Matrix](https://leetcode.com/problems/) | Difícil |
-| []()                   | Difícil |
+| [785. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/description/)                   | Médio |
 
 ## Vídeo
 
@@ -56,10 +56,18 @@ Este projeto tem como objetivo resolver questões do [LeetCode](https://leetcode
 
 ![](assets/Case3_lip.png)
 
-### PRÓXIMA QUESTÃO
+### [785. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/description/) 
+
+**Caso 1:**
+
+![](assets/Case1_igb.png)
+
+**Case 2:**
+
+![](assets/Case2_igb.png)
 
 
-**Linguagem**: C <br>
+**Linguagem**: Python <br>
 
 
 ## Uso
