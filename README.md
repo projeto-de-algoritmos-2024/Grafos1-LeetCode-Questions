@@ -10,7 +10,7 @@
 
 | Matrícula | Aluno                             |
 | --------- | --------------------------------- |
-| 190029692 | Igor Thaigo Lima de Santana |
+| 190029692 | Igor Thiago Lima de Santana |
 | 202017540 | Breno Soares Fernandes      |
 
 ## Sobre
@@ -68,6 +68,10 @@ Este projeto tem como objetivo resolver questões do [LeetCode](https://leetcode
 
 
 **Linguagem**: Python <br>
+
+## Video
+
+[Vídeo](https://youtu.be/rxcW_Wvykhw)
 
 
 ## Uso
